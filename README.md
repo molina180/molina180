@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alonso</h1>
-<h3 align="center">Automation, electrical engineering and IT.</h3>
+<h3 align="center">Automation system, electrical engineering and IT.</h3>
 
 - 🔭 I’m currently working on **ESPDatalogger**
 
